@@ -5,7 +5,7 @@ This project is a creature grass search system made with Unreal Engine blueprint
 A playable form of the project for you to test it and enjoy it! \
 Let's go: https://drive.google.com/file/d/1EEXy64frc7j8gpUiIt5QOaG-7N29SkFO/view?usp=sharing
 
-![](https://github.com/KaykyDeSouzaDias/Creature-Grass-Search-System-Unreal-Blueprint/blob/main/Imgs%26GIFs/GameplayGIF.gif)
+![](https://github.com/KaykyDeSouzaDias/Creature-Grass-Search-System-Unreal-Blueprint/blob/main/Imgs%26GIFs/CreatureGrassSearchGIF.gif)
 
 # Reference
 
